@@ -17,7 +17,7 @@
 - [References](#14)
 
 ## Story Overview <a name="1"></a>
-A Solar strom themed Escape Room where players have to solve puzzles to get out of it. In the year 2032, the world revolving around automation and high-end technology. One fine day, a Solar Storm hits the city and all the servers and digital systems starts to fail there is a power breakdown. The players are stuck inside a server room having limited emergency backup. The goal is to upload the software to the server in order to get things back in place.   
+A Solar storm themed Escape Room where players have to solve puzzles to get out of it. In the year 2032, the world revolving around automation and high-end technology. One fine day, a Solar Storm hits the city and all the servers and digital systems starts to fail there is a power breakdown. The players are stuck inside a server room having limited emergency backup. The goal is to upload the software to the server in order to get things back in place.   
 
 ## The Puzzle <a name="2"></a>
 We are building a puzzle for the server room of the Solar Storm themed Escape Room in the Ubiquitous Laboratory Area-079 Escape Room. The puzzle is designed in regard to access the power delivery system which will be powering the automated door to open the server room and power up the server which contains the corrupted software. The emergency power backup can power up only a single server and if wrong switches are turned on the backup will drain out. 
